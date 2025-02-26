@@ -8,7 +8,7 @@ public class Main {
 
         Scanner sc;
         sc = new Scanner(System.in);
-        System.out.println("Hola mundo :)" );
+        System.out.println("Hola a todos :)" );
         System.out.println("Ingrese el numero de filas de la torre: ");
         int tama= sc.nextInt();
 
